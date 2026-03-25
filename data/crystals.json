@@ -1,0 +1,964 @@
+{
+  "crystals": [
+    {
+      "id": 1,
+      "name": "Obsidian",
+      "category": "Wealth",
+      "price": "RM42 - RM81",
+      "description": "Obsidian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 2,
+      "name": "Black Tourmaline",
+      "category": "Wealth",
+      "price": "RM34 - RM144",
+      "description": "Black Tourmaline is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 3,
+      "name": "Hematite",
+      "category": "Healing",
+      "price": "RM25 - RM69",
+      "description": "Hematite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 4,
+      "name": "Rose Quartz",
+      "category": "Energy",
+      "price": "RM29 - RM90",
+      "description": "Rose Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 5,
+      "name": "Labradorite",
+      "category": "Wealth",
+      "price": "RM30 - RM143",
+      "description": "Labradorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 6,
+      "name": "Aquamarine",
+      "category": "Protection",
+      "price": "RM55 - RM162",
+      "description": "Aquamarine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 7,
+      "name": "Selenite",
+      "category": "Healing",
+      "price": "RM31 - RM133",
+      "description": "Selenite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 8,
+      "name": "Pyrite",
+      "category": "Love",
+      "price": "RM34 - RM97",
+      "description": "Pyrite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 9,
+      "name": "Rose Quartz",
+      "category": "Balance",
+      "price": "RM26 - RM74",
+      "description": "Rose Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 10,
+      "name": "Clear Quartz",
+      "category": "Wealth",
+      "price": "RM34 - RM146",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 11,
+      "name": "Aquamarine",
+      "category": "Balance",
+      "price": "RM59 - RM127",
+      "description": "Aquamarine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 12,
+      "name": "Moonstone",
+      "category": "Healing",
+      "price": "RM47 - RM94",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 13,
+      "name": "Kyanite",
+      "category": "Healing",
+      "price": "RM31 - RM67",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 14,
+      "name": "Citrine",
+      "category": "Protection",
+      "price": "RM43 - RM74",
+      "description": "Citrine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 15,
+      "name": "Lapis Lazuli",
+      "category": "Wealth",
+      "price": "RM37 - RM95",
+      "description": "Lapis Lazuli is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 16,
+      "name": "Obsidian",
+      "category": "Energy",
+      "price": "RM42 - RM142",
+      "description": "Obsidian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 17,
+      "name": "Moonstone",
+      "category": "Protection",
+      "price": "RM18 - RM134",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 18,
+      "name": "Aventurine",
+      "category": "Love",
+      "price": "RM60 - RM155",
+      "description": "Aventurine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 19,
+      "name": "Labradorite",
+      "category": "Wealth",
+      "price": "RM48 - RM141",
+      "description": "Labradorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 20,
+      "name": "Sunstone",
+      "category": "Love",
+      "price": "RM22 - RM74",
+      "description": "Sunstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 21,
+      "name": "Fluorite",
+      "category": "Wealth",
+      "price": "RM24 - RM83",
+      "description": "Fluorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 22,
+      "name": "Amethyst",
+      "category": "Energy",
+      "price": "RM32 - RM150",
+      "description": "Amethyst is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 23,
+      "name": "Carnelian",
+      "category": "Wealth",
+      "price": "RM47 - RM117",
+      "description": "Carnelian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 24,
+      "name": "Clear Quartz",
+      "category": "Balance",
+      "price": "RM33 - RM53",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 25,
+      "name": "Tiger Eye",
+      "category": "Healing",
+      "price": "RM55 - RM122",
+      "description": "Tiger Eye is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 26,
+      "name": "Selenite",
+      "category": "Healing",
+      "price": "RM41 - RM80",
+      "description": "Selenite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 27,
+      "name": "Hematite",
+      "category": "Wealth",
+      "price": "RM25 - RM71",
+      "description": "Hematite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 28,
+      "name": "Citrine",
+      "category": "Wealth",
+      "price": "RM37 - RM151",
+      "description": "Citrine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 29,
+      "name": "Citrine",
+      "category": "Love",
+      "price": "RM59 - RM165",
+      "description": "Citrine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 30,
+      "name": "Black Tourmaline",
+      "category": "Balance",
+      "price": "RM29 - RM52",
+      "description": "Black Tourmaline is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 31,
+      "name": "Sunstone",
+      "category": "Energy",
+      "price": "RM49 - RM86",
+      "description": "Sunstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 32,
+      "name": "Tiger Eye",
+      "category": "Wealth",
+      "price": "RM16 - RM114",
+      "description": "Tiger Eye is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 33,
+      "name": "Aquamarine",
+      "category": "Healing",
+      "price": "RM46 - RM157",
+      "description": "Aquamarine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 34,
+      "name": "Aquamarine",
+      "category": "Balance",
+      "price": "RM23 - RM60",
+      "description": "Aquamarine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 35,
+      "name": "Clear Quartz",
+      "category": "Wealth",
+      "price": "RM22 - RM135",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 36,
+      "name": "Moonstone",
+      "category": "Energy",
+      "price": "RM15 - RM79",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 37,
+      "name": "Black Tourmaline",
+      "category": "Energy",
+      "price": "RM22 - RM60",
+      "description": "Black Tourmaline is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 38,
+      "name": "Clear Quartz",
+      "category": "Wealth",
+      "price": "RM34 - RM105",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 39,
+      "name": "Lapis Lazuli",
+      "category": "Wealth",
+      "price": "RM36 - RM67",
+      "description": "Lapis Lazuli is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 40,
+      "name": "Amethyst",
+      "category": "Protection",
+      "price": "RM18 - RM51",
+      "description": "Amethyst is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 41,
+      "name": "Malachite",
+      "category": "Wealth",
+      "price": "RM28 - RM102",
+      "description": "Malachite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 42,
+      "name": "Malachite",
+      "category": "Love",
+      "price": "RM39 - RM136",
+      "description": "Malachite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 43,
+      "name": "Malachite",
+      "category": "Healing",
+      "price": "RM44 - RM97",
+      "description": "Malachite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 44,
+      "name": "Tiger Eye",
+      "category": "Energy",
+      "price": "RM22 - RM55",
+      "description": "Tiger Eye is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 45,
+      "name": "Rose Quartz",
+      "category": "Balance",
+      "price": "RM36 - RM58",
+      "description": "Rose Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 46,
+      "name": "Tiger Eye",
+      "category": "Energy",
+      "price": "RM39 - RM131",
+      "description": "Tiger Eye is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 47,
+      "name": "Lapis Lazuli",
+      "category": "Balance",
+      "price": "RM17 - RM70",
+      "description": "Lapis Lazuli is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 48,
+      "name": "Moonstone",
+      "category": "Energy",
+      "price": "RM36 - RM68",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 49,
+      "name": "Malachite",
+      "category": "Protection",
+      "price": "RM20 - RM42",
+      "description": "Malachite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 50,
+      "name": "Clear Quartz",
+      "category": "Energy",
+      "price": "RM21 - RM125",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 51,
+      "name": "Moonstone",
+      "category": "Love",
+      "price": "RM58 - RM157",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 52,
+      "name": "Moonstone",
+      "category": "Wealth",
+      "price": "RM57 - RM163",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 53,
+      "name": "Sunstone",
+      "category": "Energy",
+      "price": "RM35 - RM58",
+      "description": "Sunstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 54,
+      "name": "Selenite",
+      "category": "Protection",
+      "price": "RM44 - RM87",
+      "description": "Selenite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 55,
+      "name": "Lapis Lazuli",
+      "category": "Wealth",
+      "price": "RM27 - RM126",
+      "description": "Lapis Lazuli is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 56,
+      "name": "Aventurine",
+      "category": "Love",
+      "price": "RM17 - RM51",
+      "description": "Aventurine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 57,
+      "name": "Selenite",
+      "category": "Energy",
+      "price": "RM54 - RM78",
+      "description": "Selenite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 58,
+      "name": "Carnelian",
+      "category": "Balance",
+      "price": "RM58 - RM92",
+      "description": "Carnelian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 59,
+      "name": "Labradorite",
+      "category": "Healing",
+      "price": "RM15 - RM134",
+      "description": "Labradorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 60,
+      "name": "Lapis Lazuli",
+      "category": "Protection",
+      "price": "RM50 - RM148",
+      "description": "Lapis Lazuli is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 61,
+      "name": "Aquamarine",
+      "category": "Energy",
+      "price": "RM33 - RM86",
+      "description": "Aquamarine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 62,
+      "name": "Hematite",
+      "category": "Energy",
+      "price": "RM29 - RM73",
+      "description": "Hematite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 63,
+      "name": "Labradorite",
+      "category": "Balance",
+      "price": "RM45 - RM134",
+      "description": "Labradorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 64,
+      "name": "Rose Quartz",
+      "category": "Energy",
+      "price": "RM46 - RM83",
+      "description": "Rose Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 65,
+      "name": "Kyanite",
+      "category": "Protection",
+      "price": "RM39 - RM144",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 66,
+      "name": "Aquamarine",
+      "category": "Energy",
+      "price": "RM48 - RM95",
+      "description": "Aquamarine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 67,
+      "name": "Pyrite",
+      "category": "Love",
+      "price": "RM48 - RM108",
+      "description": "Pyrite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 68,
+      "name": "Labradorite",
+      "category": "Balance",
+      "price": "RM47 - RM165",
+      "description": "Labradorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 69,
+      "name": "Fluorite",
+      "category": "Energy",
+      "price": "RM33 - RM149",
+      "description": "Fluorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 70,
+      "name": "Moonstone",
+      "category": "Energy",
+      "price": "RM52 - RM97",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 71,
+      "name": "Amethyst",
+      "category": "Love",
+      "price": "RM56 - RM176",
+      "description": "Amethyst is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 72,
+      "name": "Obsidian",
+      "category": "Energy",
+      "price": "RM59 - RM159",
+      "description": "Obsidian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 73,
+      "name": "Fluorite",
+      "category": "Wealth",
+      "price": "RM38 - RM88",
+      "description": "Fluorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 74,
+      "name": "Malachite",
+      "category": "Healing",
+      "price": "RM39 - RM67",
+      "description": "Malachite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 75,
+      "name": "Amethyst",
+      "category": "Balance",
+      "price": "RM34 - RM107",
+      "description": "Amethyst is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 76,
+      "name": "Labradorite",
+      "category": "Balance",
+      "price": "RM28 - RM73",
+      "description": "Labradorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 77,
+      "name": "Citrine",
+      "category": "Balance",
+      "price": "RM25 - RM71",
+      "description": "Citrine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 78,
+      "name": "Obsidian",
+      "category": "Balance",
+      "price": "RM41 - RM160",
+      "description": "Obsidian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 79,
+      "name": "Clear Quartz",
+      "category": "Love",
+      "price": "RM36 - RM141",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 80,
+      "name": "Kyanite",
+      "category": "Love",
+      "price": "RM48 - RM97",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 81,
+      "name": "Sunstone",
+      "category": "Wealth",
+      "price": "RM27 - RM99",
+      "description": "Sunstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 82,
+      "name": "Black Tourmaline",
+      "category": "Balance",
+      "price": "RM49 - RM83",
+      "description": "Black Tourmaline is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 83,
+      "name": "Kyanite",
+      "category": "Energy",
+      "price": "RM41 - RM84",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 84,
+      "name": "Fluorite",
+      "category": "Healing",
+      "price": "RM19 - RM97",
+      "description": "Fluorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 85,
+      "name": "Lapis Lazuli",
+      "category": "Love",
+      "price": "RM31 - RM120",
+      "description": "Lapis Lazuli is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 86,
+      "name": "Kyanite",
+      "category": "Healing",
+      "price": "RM20 - RM78",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 87,
+      "name": "Clear Quartz",
+      "category": "Balance",
+      "price": "RM39 - RM69",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 88,
+      "name": "Moonstone",
+      "category": "Love",
+      "price": "RM44 - RM164",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 89,
+      "name": "Clear Quartz",
+      "category": "Protection",
+      "price": "RM37 - RM113",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 90,
+      "name": "Aventurine",
+      "category": "Love",
+      "price": "RM57 - RM139",
+      "description": "Aventurine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 91,
+      "name": "Malachite",
+      "category": "Protection",
+      "price": "RM27 - RM120",
+      "description": "Malachite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 92,
+      "name": "Malachite",
+      "category": "Balance",
+      "price": "RM43 - RM106",
+      "description": "Malachite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 93,
+      "name": "Labradorite",
+      "category": "Energy",
+      "price": "RM17 - RM77",
+      "description": "Labradorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 94,
+      "name": "Fluorite",
+      "category": "Wealth",
+      "price": "RM58 - RM121",
+      "description": "Fluorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 95,
+      "name": "Citrine",
+      "category": "Energy",
+      "price": "RM60 - RM133",
+      "description": "Citrine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 96,
+      "name": "Clear Quartz",
+      "category": "Balance",
+      "price": "RM29 - RM135",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 97,
+      "name": "Sunstone",
+      "category": "Protection",
+      "price": "RM23 - RM98",
+      "description": "Sunstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 98,
+      "name": "Moonstone",
+      "category": "Protection",
+      "price": "RM29 - RM89",
+      "description": "Moonstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 99,
+      "name": "Rose Quartz",
+      "category": "Protection",
+      "price": "RM46 - RM161",
+      "description": "Rose Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 100,
+      "name": "Hematite",
+      "category": "Wealth",
+      "price": "RM30 - RM66",
+      "description": "Hematite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 101,
+      "name": "Obsidian",
+      "category": "Love",
+      "price": "RM57 - RM161",
+      "description": "Obsidian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 102,
+      "name": "Kyanite",
+      "category": "Protection",
+      "price": "RM58 - RM166",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 103,
+      "name": "Hematite",
+      "category": "Healing",
+      "price": "RM28 - RM121",
+      "description": "Hematite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 104,
+      "name": "Rose Quartz",
+      "category": "Energy",
+      "price": "RM51 - RM137",
+      "description": "Rose Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 105,
+      "name": "Kyanite",
+      "category": "Energy",
+      "price": "RM21 - RM84",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 106,
+      "name": "Selenite",
+      "category": "Love",
+      "price": "RM46 - RM166",
+      "description": "Selenite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 107,
+      "name": "Clear Quartz",
+      "category": "Protection",
+      "price": "RM34 - RM131",
+      "description": "Clear Quartz is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 108,
+      "name": "Citrine",
+      "category": "Love",
+      "price": "RM60 - RM134",
+      "description": "Citrine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 109,
+      "name": "Selenite",
+      "category": "Protection",
+      "price": "RM39 - RM152",
+      "description": "Selenite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 110,
+      "name": "Selenite",
+      "category": "Wealth",
+      "price": "RM28 - RM65",
+      "description": "Selenite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 111,
+      "name": "Tiger Eye",
+      "category": "Balance",
+      "price": "RM31 - RM51",
+      "description": "Tiger Eye is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 112,
+      "name": "Citrine",
+      "category": "Protection",
+      "price": "RM23 - RM46",
+      "description": "Citrine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 113,
+      "name": "Obsidian",
+      "category": "Energy",
+      "price": "RM43 - RM149",
+      "description": "Obsidian is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 114,
+      "name": "Sunstone",
+      "category": "Protection",
+      "price": "RM30 - RM111",
+      "description": "Sunstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 115,
+      "name": "Kyanite",
+      "category": "Love",
+      "price": "RM31 - RM86",
+      "description": "Kyanite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 116,
+      "name": "Fluorite",
+      "category": "Protection",
+      "price": "RM53 - RM85",
+      "description": "Fluorite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 117,
+      "name": "Pyrite",
+      "category": "Love",
+      "price": "RM32 - RM77",
+      "description": "Pyrite is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 118,
+      "name": "Black Tourmaline",
+      "category": "Healing",
+      "price": "RM29 - RM126",
+      "description": "Black Tourmaline is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 119,
+      "name": "Sunstone",
+      "category": "Wealth",
+      "price": "RM23 - RM128",
+      "description": "Sunstone is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    },
+    {
+      "id": 120,
+      "name": "Aquamarine",
+      "category": "Energy",
+      "price": "RM49 - RM159",
+      "description": "Aquamarine is a popular crystal used for spiritual balance, energy alignment, and decorative collection.",
+      "image": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf?w=600"
+    }
+  ]
+}
